@@ -9,7 +9,7 @@ This is all done in one go.
 You may use my code but it must be **free**, **publicly available** and **open source**.
 
 ### Check out the [video presentation](https://www.youtube.com/watch?v=tvBAQAZmhoM)
-#### Timestamps :
+#### Timestamps
 
 - Introduction to Mobile Application at **`15:27`**
     - Project Structure at **`15:55`**
