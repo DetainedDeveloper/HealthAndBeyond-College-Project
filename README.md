@@ -1,12 +1,13 @@
 # Health & Beyond College Project
 This app gets along with [Health & Beyond](https://healthandbeyond.xyz/). It allows **`doctor`** and **`patient`** to easily accesss all features of [Health & Beyond](https://healthandbeyond.xyz/) using this app.
 
-I made this **`Flutter`** app in short notice of a week.
+### Note
+- I made this **`Flutter`** app in short notice of a week. Had absoulutely no time to add **`comments`**.
 That's why, some stuff is very clean and some is a little messy.
-Also, I didn't have any time to add state management.
+- Also, I didn't have any time to add **`state management`**.
 This is all done in one go.
-
-You may use my code but it must be **free**, **publicly available** and **open source**.
+- I might re-make the entire project and add **`state management`** with better **`code`**.
+- You may use my code but it must be **free**, **publicly available** and **open source**.
 
 ### Check out the [video presentation](https://www.youtube.com/watch?v=tvBAQAZmhoM)
 #### Timestamps
