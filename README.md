@@ -17,8 +17,8 @@ You may use my code but it must be **free**, **publicly available** and **open s
 
 # Featues
 
-1. **`authentication`** : **Authentication**
-2. **`dashboard`** : **Dashboard**
+1. **`authentication`** : Authentication (Login) for `doctor` and `patient`
+2. **`dashboard`** : Dashboard which shows **`statistics`** and **`diseases`** in city & state using a pie chart
 3. **`history`** :  Shows patient records by scanning their **`qr code`** or **`patient id`**
 4. **`profile`** :  Shows patient and doctor their respective profiles
 5. **`notifications`** : Shows notifications for **`appointments`** and **`health events`**
