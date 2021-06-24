@@ -16,6 +16,17 @@ This is all done in one go.
     - Project Structure at **`15:55`**
     - Mobile Application at **`18:19`**
 
+# Screenshots
+
+![Login](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/01.jpg?raw=false)
+![Dashboard Statistics](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/02.jpg?raw=false)
+![Dashboard Pie Charts](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/03.jpg?raw=false)
+![Patient History](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/04.jpg?raw=false)
+![Profile](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/05.jpg?raw=false)
+![Add Patient Record](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/06.jpg?raw=false)
+![Scan QR Code](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/07.jpg?raw=false)
+![Notifications](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/08.jpg?raw=false)
+
 # Featues
 
 1. **`authentication`** : Authentication (Login) for `doctor` and `patient`
