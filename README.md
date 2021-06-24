@@ -26,10 +26,10 @@ This is all done in one go.
     <td><h3>Patient History</h3></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/01.jpg?raw=false" width=270 height=270></td>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/02.jpg?raw=false" width=270 height=270></td>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/03.jpg?raw=false" width=270 height=270></td>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/04.jpg?raw=false" width=270 height=270></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/01.jpg?raw=false" width=200 height=200></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/02.jpg?raw=false" width=200 height=200></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/03.jpg?raw=false" width=200 height=200></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/04.jpg?raw=false" width=200 height=200></td>
   </tr>
   <tr>
     <td><h3>Profile</h3></td>
@@ -38,10 +38,10 @@ This is all done in one go.
     <td><h3>Notifications</h3></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/05.jpg?raw=false" width=270 height=270></td>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/06.jpg?raw=false" width=270 height=560></td>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/07.jpg?raw=false" width=270 height=560></td>
-    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/08.jpg?raw=false" width=270 height=270></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/05.jpg?raw=false" width=200 height=200></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/06.jpg?raw=false" width=200 height=200></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/07.jpg?raw=false" width=200 height=200></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/08.jpg?raw=false" width=200 height=200></td>
   </tr>
  </table>
 
