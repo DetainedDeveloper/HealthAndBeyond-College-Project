@@ -32,7 +32,7 @@ This is all done in one go.
   <tr>
     <td><h3>Patient History</h3></td>
     <td><h3>Profile</h3></td>
-    <td><h3>Add Patient Record</h3></td>
+    <td><h3>Notifications</h3></td>
   </tr>
   <tr>
     <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/04.jpg?raw=true" width=256 height=256></td>
@@ -40,8 +40,8 @@ This is all done in one go.
     <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/06.jpg?raw=true" width=256 height=256></td>
   </tr>
   <tr>
+    <td><h3>Add Patient Record</h3></td>
     <td><h3>Scan QR Code</h3></td>
-    <td><h3>Notifications</h3></td>
     <td><h3>Health Event</h3></td>
   </tr>
   <tr>
