@@ -1,5 +1,5 @@
 # HealthAndBeyond-College-Project
-This app gets along with HealthAndBeyond website. It allows `doctor` and `patient` to easily accesss all features of [Health & Beyond](https://healthandbeyond.xyz/) using this app.
+This app gets along with [Health & Beyond](https://healthandbeyond.xyz/). It allows `doctor` and `patient` to easily accesss all features of [Health & Beyond](https://healthandbeyond.xyz/) using this app.
 
 I made this **`Flutter`** app in short notice of a week.
 That's why, some stuff is very clean and some is a little messy.
