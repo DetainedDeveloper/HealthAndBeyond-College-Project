@@ -18,14 +18,32 @@ This is all done in one go.
 
 # Screenshots
 
-![Login](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/01.jpg?raw=false)
-![Dashboard Statistics](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/02.jpg?raw=false)
-![Dashboard Pie Charts](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/03.jpg?raw=false)
-![Patient History](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/04.jpg?raw=false)
-![Profile](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/05.jpg?raw=false)
-![Add Patient Record](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/06.jpg?raw=false)
-![Scan QR Code](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/07.jpg?raw=false)
-![Notifications](https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/08.jpg?raw=false)
+<table>
+  <tr>
+    <td>Login</td>
+    <td>Dashboard Statistics</td>
+    <td>Dashboard Pie Charts</td>
+    <td>Patient History</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/01.jpg?raw=false" width=256 height=256></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/02.jpg?raw=false" width=256 height=256></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/03.jpg?raw=false" width=256 height=256></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/04.jpg?raw=false" width=256 height=256></td>
+  </tr>
+  <tr>
+    <td>Profile</td>
+    <td>Add Patient Record</td>
+    <td>Scan QR Code</td>
+    <td>Notifications</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/05.jpg?raw=false" width=256 height=256></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/06.jpg?raw=false" width=256 height=256></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/07.jpg?raw=false" width=256 height=256></td>
+    <td><img src="https://github.com/DetainedDeveloper/HealthAndBeyond-College-Project/blob/master/Screenshots/08.jpg?raw=false" width=256 height=256></td>
+  </tr>
+ </table>
 
 # Featues
 
