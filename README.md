@@ -54,7 +54,7 @@ This is all done in one go.
 # Featues
 
 1. **`authentication`** : Authentication (Login) for `doctor` and `patient`
-2. **`dashboard`** : Dashboard which shows **`statistics`** and **`diseases`** in city & state using a pie chart
+2. **`dashboard`** : Dashboard which shows **`statistics`** and **`diseases`** in city and state using a pie chart
 3. **`history`** :  Shows patient records by scanning their **`qr code`** or **`patient id`**
 4. **`profile`** :  Shows patient and doctor their respective profiles
 5. **`notifications`** : Shows notifications for **`appointments`** and **`health events`**
@@ -74,7 +74,7 @@ This way, I can keep track of all features and easily manage it.
 
 Each and every feature has **3 folders**,
 
-1. **`domain`** : Contains all **abstact** classes for **`models`** and **`repositories`**
+1. **`domain`** : Contains all **abstact** classes for **`models`** and **`repositories`** and **implementation** for **`usecases`**
 2. **`data`** : Contains all **implementation** for **`data sources`**, **`models`** and **`repositories`**
 3. **`presentation`** : Contains all views in **`screens`** and **`widgets`**
 
