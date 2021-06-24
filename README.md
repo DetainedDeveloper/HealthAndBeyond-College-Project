@@ -11,9 +11,9 @@ You may use my code but it must be **free**, **publicly available** and **open s
 ### Check out the [video presentation](https://www.youtube.com/watch?v=tvBAQAZmhoM)
 #### Timestamps :
 
-- **Introduction to Mobile Application at `15:27`**
-    - **Project Structure at `15:55`**
-    - **Mobile Application at `18:19`**
+- Introduction to Mobile Application at **`15:27`**
+    - Project Structure at **`15:55`**
+    - Mobile Application at **`18:19`**
 
 # Featues
 
