@@ -1,5 +1,5 @@
 # Health & Beyond College Project
-This app gets along with [Health & Beyond](https://healthandbeyond.xyz/). It allows **`doctor`** and **`patient`** to easily accesss all features of [Health & Beyond](https://healthandbeyond.xyz/) using this app.
+This app gets along with [Health & Beyond](https://healthandbeyond.xyz/). It allows **`doctor`** and **`patient`** to easily access all features of [Health & Beyond](https://healthandbeyond.xyz/) using this app.
 
 ### Note
 - I made this **`Flutter`** app in short notice of a week. Had absoulutely no time to add **`comments`**.
@@ -58,7 +58,7 @@ This is all done in one go.
 3. **`history`** :  Shows patient records by scanning their **`qr code`** or **`patient id`**
 4. **`profile`** :  Shows patient and doctor their respective profiles
 5. **`notifications`** : Shows notifications for **`appointments`** and **`health events`**
-6. **`add record`** : Allows **Dotcor** to add a new **`patient record`**
+6. **`add record`** : Allows **Doctor** to add a new **`patient record`**
 
 # Project Structure
 
@@ -68,7 +68,7 @@ Project contains two main folders, **`core`** and **`features`**
 - **`core`** contains all core data such as string resources, color and theme data, app prefrerences.
 - **`features`** conatains all **`modules`** such as authentication, home, profile, notifications, etc.
 
-This way, I can keep track of all features and easily manage it.
+This way, I can keep track of all features and easily manage them.
 
 # Feature Structure
 
